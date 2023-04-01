@@ -16,7 +16,7 @@ I'm a South African medical doctor specialised in biochemical and molecular diag
 Shifting to freelancing and open to work.
 
 ### Projects
-- [Analytical Performance Specifications](): A data analytics project to determine the clinical impact of analytical error in cholesterol measurements.
+- [Analytical Performance Specifications](https://github.com/justcme/PerformanceSpecs): A data analytics project to determine the clinical impact of analytical error in cholesterol measurements.
 - Laboratory Utilisation Management: Analysing test requesting patterns to identify misuse of resources and propose interventions.
 - Creating an online tool that will display the uncertainty of measurement around laboratory test results.
 
