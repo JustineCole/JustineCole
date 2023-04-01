@@ -25,7 +25,7 @@ Shifting to freelancing and open to work.
 - Batch and stream processing
 
 ### Hobby-Horse
-- Let food be thy medicine
+> Let food be thy medicine
 - You are what you eat
 - You are also made up largely of the microbes that colonise you
 
