@@ -27,7 +27,7 @@ Shifting to freelancing and open to work.
 ### Hobby-Horse
 > Let food be thy medicine
 - You are what you eat
-- You are also made up largely of the microbes that colonise you
+- You are also made up largely of the microbes that colonise you and the ones in your gut eat what you eat
 
 ### Fun Fact
 - I am a rock-climber. Nothing brings me more joy than being out in the mountains.
