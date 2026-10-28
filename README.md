@@ -14,20 +14,11 @@ I'm a South African medical doctor specialised in biochemical and molecular diag
 </details>
 
 ### Work Status
-Shifting to freelancing and open to work.
+Freelancing and open to work.
 
 ### Projects
 - [Analytical Performance Specifications](https://github.com/justcme/PerformanceSpecs): A data analytics project to determine the clinical impact of analytical error in cholesterol measurements.
-- Laboratory Utilisation Management: Analysing test requesting patterns to identify misuse of resources and propose interventions.
-- Creating an online tool that will display the uncertainty of measurement around laboratory test results.
-
-### Current Rabbit-Hole
-- Batch and stream processing
-
-### Hobby-Horse
-> Let food be thy medicine
-- You are what you eat
-- You are also made up largely of the microbes that colonise you and the ones in your gut eat what you eat
+- 
 
 ### Fun Fact
 - I am a rock-climber. Nothing brings me more joy than being out in the mountains.
